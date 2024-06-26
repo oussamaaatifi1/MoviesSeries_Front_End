@@ -1,5 +1,8 @@
 # MoviesSeries_Front_End
 
+![image](https://github.com/oussamaaatifi1/MoviesSeries_Front_End/assets/72675402/031fa129-e7de-45be-8caa-b557a9495475)
+
+
 # MovieSeries App
 
 ## Contexte du projet
