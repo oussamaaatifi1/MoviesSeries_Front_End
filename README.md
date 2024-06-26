@@ -13,6 +13,9 @@ L'objectif de ce projet est de développer des interfaces utilisateur pour une a
 - Afficher la liste des films et séries.
 - Afficher les détails d'un film ou d'une série.
 
+![image](https://github.com/oussamaaatifi1/MoviesSeries_Front_End/assets/72675402/d637104a-54c4-47dd-ae5f-500e52b21719)
+
+
 ### Gestion des favoris :
 - Ajouter un film ou une série aux favoris.
 - Supprimer un film ou une série des favoris.
